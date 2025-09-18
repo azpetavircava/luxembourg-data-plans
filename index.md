@@ -75,3 +75,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾，在卢森堡的每一刻都在线，尽情享受它的古典与现代之美。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Luxembourg SIM 卡购买与激活指南](https://faciylike.github.io/luxembourg-sim-guides)
